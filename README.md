@@ -12,7 +12,7 @@
 | 004 | 2026-08-13 | [用户记忆与知识库：从四种存储格式到 RAG 检索](./articles/004-user-memory-and-knowledge-base.md) | 第3章 |
 | 005 | 2026-08-14 | [工具设计（上）：分类与设计原则](./articles/005-tool-design-part1.md) | 第4章 |
 | 006 | 2026-08-15 | [工具设计（下）：执行工具、协作工具与异步 Agent](./articles/006-tool-design-part2.md) | 第4章 |
-| 007 | 2026-08-16 | Coding Agent：代码作为 Agent 的元能力 | 第5章 |
+| 007 | 2026-08-16 | [Coding Agent：代码作为 Agent 的元能力](./articles/007-coding-agent.md) | 第5章 |
 | 008 | 2026-08-17 | Agent 的评估体系与方法 | 第6章 |
 | 009 | 2026-08-18 | 模型后训练 | 第7章 |
 | 010 | 2026-08-19 | Agent 的持续进化 | 第8章 |
