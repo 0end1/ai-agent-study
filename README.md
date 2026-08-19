@@ -15,7 +15,7 @@
 | 007 | 2026-08-16 | [Coding Agent：代码作为 Agent 的元能力](./articles/007-coding-agent.md) | 第5章 |
 | 008 | 2026-08-17 | [Agent 的评估体系与方法](./articles/008-evaluation.md) | 第6章 |
 | 009 | 2026-08-18 | [模型后训练：从"会说话"到"会办事"](./articles/009-model-post-training.md) | 第7章 |
-| 010 | 2026-08-19 | Agent 的持续进化 | 第8章 |
+| 010 | 2026-08-19 | [Agent 的持续进化：从"记住经历"到"学会成长"](./articles/010-agent-continuous-evolution.md) | 第8章 |
 | 011 | 2026-08-20 | 多模态与实时交互 | 第9章 |
 | 012 | 2026-08-21 | 多 Agent 协作 | 第10章 |
 | 013 | 2026-08-22 | 总结与未来展望 | 后记 |
