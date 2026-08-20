@@ -17,7 +17,7 @@
 | 009 | 2026-08-18 | [模型后训练：从"会说话"到"会办事"](./articles/009-model-post-training.md) | 第7章 |
 | 010 | 2026-08-19 | [Agent 的持续进化：从"记住经历"到"学会成长"](./articles/010-agent-continuous-evolution.md) | 第8章 |
 | 011 | 2026-08-19 | [多模态与实时交互：Agent 跳出"对话框"的三道坎](./articles/011-multimodal-realtime-interaction.md) | 第9章 |
-| 012 | 2026-08-21 | 多 Agent 协作 | 第10章 |
+| 012 | 2026-08-20 | [多 Agent 协作：从"单打独斗"到"集团作战"](./articles/012-multi-agent-collaboration.md) | 第10章 |
 | 013 | 2026-08-22 | 总结与未来展望 | 后记 |
 
 ## 关于本书
