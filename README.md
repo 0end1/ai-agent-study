@@ -18,7 +18,7 @@
 | 010 | 2026-08-19 | [Agent 的持续进化：从"记住经历"到"学会成长"](./articles/010-agent-continuous-evolution.md) | 第8章 |
 | 011 | 2026-08-19 | [多模态与实时交互：Agent 跳出"对话框"的三道坎](./articles/011-multimodal-realtime-interaction.md) | 第9章 |
 | 012 | 2026-08-20 | [多 Agent 协作：从"单打独斗"到"集团作战"](./articles/012-multi-agent-collaboration.md) | 第10章 |
-| 013 | 2026-08-22 | 总结与未来展望 | 后记 |
+| 013 | 2026-08-21 | [回到 Agent = LLM + 上下文 + 工具：两朵乌云与一条飞轮](./articles/013-afterword-two-clouds-and-flywheel.md) | 后记 |
 
 ## 关于本书
 
