@@ -28,3 +28,13 @@
 - **页数**：316页
 
 本书系统性地阐述了 AI Agent 的设计原理与工程实践，涵盖从入门概念到高级多 Agent 协作的完整知识体系。
+
+---
+
+## 新系列：从企业数字化到 AI 落地
+
+基于 Stanford《2026 企业 AI 实战手册》(The Enterprise AI Playbook) 的学习笔记，转向企业 AI 落地的实证视角。完整大纲见 [PLAN-enterprise-ai-playbook.md](./PLAN-enterprise-ai-playbook.md)。
+
+| 序号 | 日期 | 标题 | 对应章节 |
+|------|------|------|----------|
+| 014 | 2026-08-21 | [为什么 AI 业务案例总低估真实投入？——决定成败的隐性成本](./articles/014-hidden-costs-underestimated-investment.md) | Ch1 |
