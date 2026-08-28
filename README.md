@@ -38,3 +38,11 @@
 | 序号 | 日期 | 标题 | 对应章节 |
 |------|------|------|----------|
 | 014 | 2026-08-21 | [为什么 AI 业务案例总低估真实投入？——决定成败的隐性成本](./articles/014-hidden-costs-underestimated-investment.md) | Ch1 |
+| 015 | 2026-08-22 | [如何跨过"部署到 ROI 的死亡之谷"？——同样的 AI 项目，为什么有的几周、有的几年](./articles/015-valley-of-death-deployment-ROI.md) | Ch2 |
+| 016 | 2026-08-23 | [多少人盯着 AI 才算够？——审批式、升级式与协作式的取舍](./articles/016-human-oversight-optimal-level.md) | Ch3 |
+| 017 | 2026-08-24 | [推动结果的高管，和只批预算的高管，差在哪？——有效高管赞助的四个动作](./articles/017-executive-sponsorship-driving-results.md) | Ch4 |
+| 018 | 2026-08-25 | [最致命的 AI 阻力，不在终端用户，而在法务和 HR？——35% 的阻力从哪来](./articles/018-fatal-resistance-sources.md) | Ch5 |
+| 019 | 2026-08-26 | [AI 把活干完了，人是裁掉还是留下？——45% vs 55% 的编制选择题](./articles/019-headcount-after-ai-productivity.md) | Ch6 |
+| 020 | 2026-08-27 | [AI 不只是帮你省钱，还能打开以前关着的门——从效率到新收入的三条路](./articles/020-new-revenue-and-impossible-work.md) | Ch7 |
+| 021 | 2026-08-27 | [自主 AI 真的能赚钱吗？——只有 20% 用全自动，却带来了最高的 71% 生产率](./articles/021-agentic-ai-real-value.md) | Ch8 |
+| 022 | 2026-08-28 | [企业数据到底要多干净？——只有 6% 的数据"完全就绪"，AI 却在 88% 的公司里自己修好了数据](./articles/022-data-cleanliness-vs-access.md) | Ch9 |
