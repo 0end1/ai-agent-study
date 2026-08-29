@@ -47,3 +47,4 @@
 | 021 | 2026-08-27 | [自主 AI 真的能赚钱吗？——只有 20% 用全自动，却带来了最高的 71% 生产率](./articles/021-agentic-ai-real-value.md) | Ch8 |
 | 022 | 2026-08-28 | [企业数据到底要多干净？——只有 6% 的数据"完全就绪"，AI 却在 88% 的公司里自己修好了数据](./articles/022-data-cleanliness-vs-access.md) | Ch9 |
 | 023 | 2026-08-28 | [安全要求会杀死 AI 项目吗？——12 个案例里安全从未杀死项目，反而成了最深的护城河](./articles/023-security-requirements-project-outcomes.md) | Ch10 |
+| 024 | 2026-08-29 | [选哪个 AI 模型重要吗？——42% 的用例里它是"商品"，赢家的护城河在编排层](./articles/024-model-choice-commodity-boundary.md) | Ch11 |
