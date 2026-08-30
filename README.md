@@ -48,3 +48,4 @@
 | 022 | 2026-08-28 | [企业数据到底要多干净？——只有 6% 的数据"完全就绪"，AI 却在 88% 的公司里自己修好了数据](./articles/022-data-cleanliness-vs-access.md) | Ch9 |
 | 023 | 2026-08-28 | [安全要求会杀死 AI 项目吗？——12 个案例里安全从未杀死项目，反而成了最深的护城河](./articles/023-security-requirements-project-outcomes.md) | Ch10 |
 | 024 | 2026-08-29 | [选哪个 AI 模型重要吗？——42% 的用例里它是"商品"，赢家的护城河在编排层](./articles/024-model-choice-commodity-boundary.md) | Ch11 |
+| 025 | 2026-08-30 | [技术是有效的，难的是其他一切——51 个案例、12 篇笔记之后，这是手册的最终答案](./articles/025-conclusion-technology-works.md) | Conclusion |
