@@ -61,7 +61,7 @@
 | 026 | 2026-08-31 | [Rust 学习笔记（1/21）：Hello, Rust!——从安装到 Cargo](articles/026-getting-started.md) | Ch1 |
 | 027 | 2026-09-01 | [Rust 学习笔记（2/21）：猜数字游戏——动手认识 Rust 的第一座山](articles/027-guessing-game.md) | Ch2 |
 | 028 | 2026-09-02 | [Rust 学习笔记（3/21）：通用编程概念——把地基打牢](articles/028-common-concepts.md) | Ch3 |
-| 029 | 待定 | （第4章 认识所有权·上） | Ch4 |
+| 029 | 2026-09-03 | [Rust 学习笔记（4/21）：认识所有权（上）——让编译器替你管内存](articles/029-ownership-part1.md) | Ch4 |
 | 030 | 待定 | （第4章 认识所有权·下） | Ch4 |
 | 031 | 待定 | （第5章 结构体） | Ch5 |
 | 032 | 待定 | （第6章 枚举和模式匹配） | Ch6 |
