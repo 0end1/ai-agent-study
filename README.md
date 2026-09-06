@@ -65,7 +65,7 @@
 | 030 | 2026-09-03 | [Rust 学习笔记（5/21）：认识所有权（下）——引用、借用与切片](articles/030-ownership-part2.md) | Ch4 |
 | 031 | 2026-09-04 | [Rust 学习笔记（6/21）：结构体——给数据起名字的艺术](articles/031-structs.md) | Ch5 |
 | 032 | 2026-09-05 | [Rust 学习笔记（7/21）：枚举与模式匹配——把"可能的情况"变成类型](articles/032-enums-and-pattern-matching.md) | Ch6 |
-| 033 | 待定 | （第7章 包/Crate/模块） | Ch7 |
+| 033 | 2026-09-06 | [Rust 学习笔记（8/21）：使用包、Crate 和模块——给代码"分房间"](articles/033-modules-packages-crates.md) | Ch7 |
 | 034 | 待定 | （第8章 常见集合） | Ch8 |
 | 035 | 待定 | （第9章 错误处理） | Ch9 |
 | 036 | 待定 | （第10章 泛型/trait/生命周期） | Ch10 |
