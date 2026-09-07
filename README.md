@@ -66,7 +66,7 @@
 | 031 | 2026-09-04 | [Rust 学习笔记（6/21）：结构体——给数据起名字的艺术](articles/031-structs.md) | Ch5 |
 | 032 | 2026-09-05 | [Rust 学习笔记（7/21）：枚举与模式匹配——把"可能的情况"变成类型](articles/032-enums-and-pattern-matching.md) | Ch6 |
 | 033 | 2026-09-06 | [Rust 学习笔记（8/21）：使用包、Crate 和模块——给代码"分房间"](articles/033-modules-packages-crates.md) | Ch7 |
-| 034 | 待定 | （第8章 常见集合） | Ch8 |
+| 034 | 2026-09-07 | [Rust 学习笔记（9/21）：常见集合——Vec、String 与 HashMap "三件套"](articles/034-common-collections.md) | Ch8 |
 | 035 | 待定 | （第9章 错误处理） | Ch9 |
 | 036 | 待定 | （第10章 泛型/trait/生命周期） | Ch10 |
 | 037 | 待定 | （第11章 自动化测试） | Ch11 |
