@@ -69,7 +69,7 @@
 | 034 | 2026-09-07 | [Rust 学习笔记（9/21）：常见集合——Vec、String 与 HashMap "三件套"](articles/034-common-collections.md) | Ch8 |
 | 035 | 2026-09-08 | [Rust 学习笔记（10/21）：错误处理——是优雅降级，还是果断停摆？](articles/035-error-handling.md) | Ch9 |
 | 036 | 2026-09-09 | [Rust 学习笔记（11/21）：泛型、trait 与生命周期——把"抽象"交给编译器把关](articles/036-generics-traits-lifetimes.md) | Ch10 |
-| 037 | 待定 | （第11章 自动化测试） | Ch11 |
+| 037 | 2026-09-11 | [Rust 学习笔记（12/21）：编写自动化测试——给代码装上"自动质检线"](articles/037-automated-tests.md) | Ch11 |
 | 038 | 待定 | （第12章 I/O 项目 minigrep） | Ch12 |
 | 039 | 待定 | （第13章 迭代器与闭包） | Ch13 |
 | 040 | 待定 | （第14章 Cargo 与 crates.io） | Ch14 |
