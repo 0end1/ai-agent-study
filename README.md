@@ -72,7 +72,7 @@
 | 037 | 2026-09-11 | [Rust 学习笔记（12/21）：编写自动化测试——给代码装上"自动质检线"](articles/037-automated-tests.md) | Ch11 |
 | 038 | 2026-09-12 | [Rust 学习笔记（13/21）：I/O 项目 minigrep——把散装知识组装成一台真机器](articles/038-io-project-minigrep.md) | Ch12 |
 | 039 | 2026-09-13 | [Rust 学习笔记（14/21）：迭代器与闭包——Rust 的"零成本抽象"是怎么做到的](articles/039-iterators-and-closures.md) | Ch13 |
-| 040 | 待定 | （第14章 Cargo 与 crates.io） | Ch14 |
+| 040 | 2026-09-14 | [Rust 学习笔记（15/21）：Cargo 进阶与 Crates.io——从"能跑"到"能被别人用"](articles/040-cargo-and-crates-io.md) | Ch14 |
 | 041 | 待定 | （第15章 智能指针） | Ch15 |
 | 042 | 待定 | （第16章 无畏并发） | Ch16 |
 | 043 | 待定 | （第17章 面向对象特性） | Ch17 |
