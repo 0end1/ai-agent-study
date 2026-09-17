@@ -73,8 +73,8 @@
 | 038 | 2026-09-12 | [Rust 学习笔记（13/21）：I/O 项目 minigrep——把散装知识组装成一台真机器](articles/038-io-project-minigrep.md) | Ch12 |
 | 039 | 2026-09-13 | [Rust 学习笔记（14/21）：迭代器与闭包——Rust 的"零成本抽象"是怎么做到的](articles/039-iterators-and-closures.md) | Ch13 |
 | 040 | 2026-09-14 | [Rust 学习笔记（15/21）：Cargo 进阶与 Crates.io——从"能跑"到"能被别人用"](articles/040-cargo-and-crates-io.md) | Ch14 |
-| 041 | 待定 | （第15章 智能指针） | Ch15 |
-| 042 | 待定 | （第16章 无畏并发） | Ch16 |
+| 041 | 2026-09-15 | [Rust 学习笔记（16/21）：智能指针——当编译期规则需要一点「弹性」](articles/041-smart-pointers.md) | Ch15 |
+| 042 | 2026-09-17 | [Rust 学习笔记（17/21）：无畏并发——编译器替你排查数据竞争](articles/042-fearless-concurrency.md) | Ch16 |
 | 043 | 待定 | （第17章 面向对象特性） | Ch17 |
 | 044 | 待定 | （第18章 模式和匹配） | Ch18 |
 | 045 | 待定 | （第19章 高级特征） | Ch19 |
