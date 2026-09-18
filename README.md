@@ -75,7 +75,7 @@
 | 040 | 2026-09-14 | [Rust 学习笔记（15/21）：Cargo 进阶与 Crates.io——从"能跑"到"能被别人用"](articles/040-cargo-and-crates-io.md) | Ch14 |
 | 041 | 2026-09-15 | [Rust 学习笔记（16/21）：智能指针——当编译期规则需要一点「弹性」](articles/041-smart-pointers.md) | Ch15 |
 | 042 | 2026-09-17 | [Rust 学习笔记（17/21）：无畏并发——编译器替你排查数据竞争](articles/042-fearless-concurrency.md) | Ch16 |
-| 043 | 待定 | （第17章 面向对象特性） | Ch17 |
+| 043 | 2026-09-18 | [Rust 学习笔记（18/21）：Rust 的面向对象特性——trait 对象与状态模式](articles/043-object-oriented-features.md) | Ch17 |
 | 044 | 待定 | （第18章 模式和匹配） | Ch18 |
 | 045 | 待定 | （第19章 高级特征） | Ch19 |
 | 046 | 待定 | （第20章 多线程 Web 服务器·完结） | Ch20 |
