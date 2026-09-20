@@ -77,5 +77,5 @@
 | 042 | 2026-09-17 | [Rust 学习笔记（17/21）：无畏并发——编译器替你排查数据竞争](articles/042-fearless-concurrency.md) | Ch16 |
 | 043 | 2026-09-18 | [Rust 学习笔记（18/21）：Rust 的面向对象特性——trait 对象与状态模式](articles/043-object-oriented-features.md) | Ch17 |
 | 044 | 2026-09-19 | [Rust 学习笔记（19/21）：模式和匹配——你天天在用，却没发现它无处不在](articles/044-patterns-and-matching.md) | Ch18 |
-| 045 | 待定 | （第19章 高级特征） | Ch19 |
+| 045 | 2026-09-20 | [Rust 学习笔记（20/21）：高级特征——unsafe、关联类型与宏的进阶工具箱](articles/045-advanced-features.md) | Ch19 |
 | 046 | 待定 | （第20章 多线程 Web 服务器·完结） | Ch20 |
