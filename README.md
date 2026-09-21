@@ -79,3 +79,13 @@
 | 044 | 2026-09-19 | [Rust 学习笔记（19/21）：模式和匹配——你天天在用，却没发现它无处不在](articles/044-patterns-and-matching.md) | Ch18 |
 | 045 | 2026-09-20 | [Rust 学习笔记（20/21）：高级特征——unsafe、关联类型与宏的进阶工具箱](articles/045-advanced-features.md) | Ch19 |
 | 046 | 2026-09-21 | [Rust 学习笔记（21/21 完结）：最后的项目——亲手撸一个多线程 Web 服务器](articles/046-final-project-web-server.md) | Ch20 |
+
+---
+
+## 新系列：TypeScript 官方 Handbook
+
+基于 [TypeScript 官方 Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) 的逐节学习笔记。完整大纲见 [PLAN-ts-handbook.md](./PLAN-ts-handbook.md)，书源见 [book-src/ts-handbook/](./book-src/ts-handbook/)。
+
+| 序号 | 日期 | 标题 | 对应章节 |
+|------|------|------|----------|
+| 047 | 2026-09-21 | [TypeScript 学习笔记（1/16）：开篇——类型是什么，静态检查到底在查什么](articles/047-ts-handbook-intro-static-checking.md) | Intro + The Basics（上） |
