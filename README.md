@@ -89,3 +89,4 @@
 | 序号 | 日期 | 标题 | 对应章节 |
 |------|------|------|----------|
 | 047 | 2026-09-21 | [TypeScript 学习笔记（1/16）：开篇——类型是什么，静态检查到底在查什么](articles/047-ts-handbook-intro-static-checking.md) | Intro + The Basics（上） |
+| 048 | 2026-09-22 | [TypeScript 学习笔记（2/16）：tsc、类型擦除与严格性旋钮](articles/048-tsc-erased-types-strictness.md) | The Basics（下） |
