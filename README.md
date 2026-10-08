@@ -91,3 +91,4 @@
 | 047 | 2026-09-21 | [TypeScript 学习笔记（1/16）：开篇——类型是什么，静态检查到底在查什么](articles/047-ts-handbook-intro-static-checking.md) | Intro + The Basics（上） |
 | 048 | 2026-09-22 | [TypeScript 学习笔记（2/16）：tsc、类型擦除与严格性旋钮](articles/048-tsc-erased-types-strictness.md) | The Basics（下） |
 | 049 | 2026-09-23 | [TypeScript 学习笔记（3/16）：日常类型（上）——string、any 与"少写注解"的智慧](articles/049-everyday-types-primitives-functions.md) | Everyday Types（上） |
+| 050 | 2026-10-08 | [TypeScript 学习笔记（4/17）：日常类型（中）——对象、联合、别名与接口的分野](articles/050-everyday-types-unions-aliases-interfaces.md) | Everyday Types（中） |
