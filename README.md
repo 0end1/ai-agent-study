@@ -93,3 +93,4 @@
 | 049 | 2026-09-23 | [TypeScript 学习笔记（3/16）：日常类型（上）——string、any 与"少写注解"的智慧](articles/049-everyday-types-primitives-functions.md) | Everyday Types（上） |
 | 050 | 2026-10-08 | [TypeScript 学习笔记（4/17）：日常类型（中）——对象、联合、别名与接口的分野](articles/050-everyday-types-unions-aliases-interfaces.md) | Everyday Types（中） |
 | 051 | 2026-10-09 | [TypeScript 学习笔记（5/17）：日常类型（下）——断言、字面量与 null 的边界术](articles/051-type-assertions-literals-null.md) | Everyday Types（下） |
+| 052 | 2026-10-10 | [TypeScript 学习笔记（6/17）：Narrowing——教编译器读懂你的 if](articles/052-narrowing-type-guards.md) | Narrowing |
