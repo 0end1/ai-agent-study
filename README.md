@@ -94,3 +94,4 @@
 | 050 | 2026-10-08 | [TypeScript 学习笔记（4/17）：日常类型（中）——对象、联合、别名与接口的分野](articles/050-everyday-types-unions-aliases-interfaces.md) | Everyday Types（中） |
 | 051 | 2026-10-09 | [TypeScript 学习笔记（5/17）：日常类型（下）——断言、字面量与 null 的边界术](articles/051-type-assertions-literals-null.md) | Everyday Types（下） |
 | 052 | 2026-10-10 | [TypeScript 学习笔记（6/17）：Narrowing——教编译器读懂你的 if](articles/052-narrowing-type-guards.md) | Narrowing |
+| 053 | 2026-10-11 | [TypeScript 学习笔记（7/17）：函数进阶——把"可调用"本身变成类型](articles/053-function-types-generics-overloads.md) | More on Functions |
