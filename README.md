@@ -98,3 +98,4 @@
 | 054 | 2026-10-12 | [TypeScript 学习笔记（8/17）：对象类型——修饰符、索引签名与扩展的分家](articles/054-object-types-modifiers-index-extends.md) | Object Types（前半） |
 | 055 | 2026-10-13 | [TypeScript 学习笔记（9/17）：泛型对象与元组——容器类型的完成态](articles/055-generic-object-types-tuples.md) | Object Types（后半） |
 | 056 | 2026-10-14 | [TypeScript 学习笔记（10/17）：Modules——文件边界的沟通术](articles/056-modules.md) | Modules |
+| 057 | 2026-10-26 | [TypeScript 学习笔记（11/17）：Classes（上）——成员、继承契约与可见性](articles/057-classes-members-visibility.md) | Classes（前半） |
