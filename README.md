@@ -101,3 +101,4 @@
 | 057 | 2026-10-26 | [TypeScript 学习笔记（11/17）：Classes（上）——成员、继承契约与可见性](articles/057-classes-members-visibility.md) | Classes（前半） |
 | 058 | 2026-10-27 | [TypeScript 学习笔记（12/17）：Classes（下）——静态、this 的多面性与抽象契约](articles/058-classes-static-this-abstract.md) | Classes（后半） |
 | 059 | 2026-10-28 | [TypeScript 学习笔记（13/17）：More on Functions——把"怎么调"说清楚](articles/059-more-on-functions.md) | More on Functions |
+| 060 | 2026-10-29 | [TypeScript 学习笔记（14/17）：keyof 与 typeof——从值和键里"长"出类型](articles/060-keyof-typeof-operators.md) | Keyof / Typeof Type Operator |
