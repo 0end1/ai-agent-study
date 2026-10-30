@@ -103,3 +103,4 @@
 | 059 | 2026-10-28 | [TypeScript 学习笔记（13/17）：More on Functions——把"怎么调"说清楚](articles/059-more-on-functions.md) | More on Functions |
 | 060 | 2026-10-29 | [TypeScript 学习笔记（14/17）：keyof 与 typeof——从值和键里"长"出类型](articles/060-keyof-typeof-operators.md) | Keyof / Typeof Type Operator |
 | 061 | 2026-10-30 | [TypeScript 学习笔记（15/17）：索引访问与条件类型——类型世界的下标与 if](articles/061-indexed-access-conditional-types.md) | Indexed Access / Conditional Types |
+| 062 | 2026-10-30 | [TypeScript 学习笔记（16/17）：映射类型与模板字面量类型——批量改造与字符串魔术](articles/062-mapped-template-literal-types.md) | Mapped Types / Template Literal Types |
